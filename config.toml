@@ -1,0 +1,7 @@
+baseURL = "https://iuyte.github.io/"
+languageCode = "en-us"
+title = "iuyte"
+theme = "docdock"
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
