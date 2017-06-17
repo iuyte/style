@@ -4,4 +4,4 @@ This is where you can refer to if you are a programmer for team 709S, or if you 
 
 ### 709S
 
-Team 709S is currently a two-man team, with only one who programs. If you have any reccommendations, (hopefully not) complaints, suggestions, additions, or other comments about this style guide, feel free to email me at (ethanialw@gmail.com)[mailto:ethanialw@gmail.com].
+Team 709S is currently a two-man team, with only one who programs. If you have any reccommendations, (hopefully not) complaints, suggestions, additions, or other comments about this style guide, feel free to email me at <a href="mailto:ethanialw@gmail.com">ethanialw@gmail.com</a>
